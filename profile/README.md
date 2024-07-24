@@ -1,5 +1,5 @@
 <!--타이틀 부분-->
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=300&section=header&text=Kuggle&desc=Datascience_Club%&fontSize=70&animation=fadeIn&fontAlignY=50&descAlignY=70&theme=tokyonight" />
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=300&section=header&text=Kuggle&desc=Datascience_Club%&fontSize=70&animation=fadeIn&fontAlignY=50&descAlignY=70&theme=cobalt" />
 
 <!--내용 부분-->
 <h3 align="center">✨ Tech Stack ✨</h3>
