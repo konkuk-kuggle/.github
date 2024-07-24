@@ -1,7 +1,7 @@
-<!--타이틀 부분-->
+<!-- 타이틀 부분 -->
 <img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=300&section=header&text=Kuggle&desc=Datascience_Club%&fontSize=70&animation=fadeIn&fontAlignY=50&descAlignY=70&theme=dark" />
 
-<!--내용 부분-->
+<!-- 내용 부분 -->
 # KUGGLE - 건국대학교 데이터사이언스 소모임 📊🔍
 
 KUGGLE은 건국대학교의 데이터사이언스 소모임으로, 데이터 분석에 관심 있는 학생들이 함께 성장하고 학습하는 공간입니다.  
@@ -15,11 +15,15 @@ KUGGLE은 건국대학교의 데이터사이언스 소모임으로, 데이터 �
 
 ## 📝 지원 자격
 
-- 건국대학교 재학생으로서 데이터 과학에 열정을 가진 분
-- 최소 1년 간 활동에 참여할 수 있는 분
-- 매주 정기 세미나에 참석 가능하신 분
+- 🎓 건국대학교 재학생으로서 데이터 과학에 열정을 가진 분
+- ⏳ 최소 1년 간 활동에 참여할 수 있는 분
+- 📅 매주 정기 세미나에 참석 가능하신 분
 
 ---
 
-KUGGLE은 여러분의 참여를 기다리고 있습니다.
-데이터 과학에 대한 열정을 함께 나누고 싶은 여러분을 환영합니다!
+KUGGLE은 여러분의 참여를 기다리고 있습니다.  
+데이터 과학에 대한 열정을 함께 나누고 싶은 여러분을 환영합니다! 🌟
+
+---
+
+📚 **레포지토리 네이밍 규칙**: `.github/NAMING_CONVENTION.md` 참조
