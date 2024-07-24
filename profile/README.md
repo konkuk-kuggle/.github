@@ -28,5 +28,4 @@ KUGGLE은 여러분의 참여를 기다리고 있습니다.
 
 📚 **레포지토리 네이밍 규칙**: `.github/NAMING_CONVENTION.md` 참조
 
-
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Edu+Australia+VIC+WA+NT+Hand&pause=1000&color=FFFFFF&background=FFFFFF00&center=true&vCenter=true&width=435&lines=Konkuk+Univ.+DataScience+Club+Kuggle" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Edu+Australia+VIC+WA+NT+Hand&pause=1000&color=FFFFFF&background=FFFFFF00&center=true&vCenter=true&width=435&lines=Konkuk+Univ.+Data+Science+Club+Kuggle" alt="Typing SVG" /></a>
