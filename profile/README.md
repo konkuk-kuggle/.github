@@ -24,6 +24,12 @@ KUGGLE은 건국대학교의 데이터사이언스 소모임으로, 데이터 �
 KUGGLE은 여러분의 참여를 기다리고 있습니다.  
 데이터 과학에 대한 열정을 함께 나누고 싶은 여러분을 환영합니다! 🌟
 
+## 📞 Contact Us
+
+<a href="https://www.youtube.com/channel/UCzNlyAx5hv2oNjqpeWn99iw"><img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white"/></a>
+<a href="https://www.instagram.com/__kuggle__/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>
+<a href="https://cafe.naver.com/kuggler"><img src="https://img.shields.io/badge/Naver_Cafe-03C75A?style=flat-square&logo=naver&logoColor=white"/></a>
+
 ---
 
 📚 **레포지토리 네이밍 규칙**: `.github/NAMING_CONVENTION.md` 참조
